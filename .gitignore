@@ -1,0 +1,5 @@
+# PDFs are usually redistributable-restricted; keep notes, not papers
+papers/**/*.pdf
+
+.DS_Store
+*.swp
