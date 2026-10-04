@@ -47,6 +47,8 @@ Two sections in the topic template carry most of the value:
 
 ## Learning path
 
+Current assignment: [Chronic HBV Infection: CD8⁺ T-Cell Dysfunction and Experimental Design](homework/hbv-cd8-exhaustion-pd1-4ibb.md).
+
 Immunology has strong prerequisite structure; skipping around leaves gaps.
 A workable order:
 
