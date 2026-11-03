@@ -16,6 +16,7 @@ immunology/
 ├── README.md          this file: index + learning path
 ├── topics/            one concept or mechanism per file   ← the main work
 ├── papers/            papers read, if any
+├── homework/          one assignment per file: requirements + answers
 ├── glossary.md        term table (immunology is an acronym swamp)
 ├── questions.md       open questions, answered in place
 └── logs/              study log, YYYY-MM-DD
@@ -70,6 +71,13 @@ A workable order:
 > Step 8 is where this intersects my own work on ecDNA and spatial genomics —
 > tumour microenvironment, immune evasion, immune infiltration in spatial
 > transcriptomics. Worth reading against the thesis library when I get there.
+
+## Homework index
+
+- [Innate Immunity, COVID-19, and Antitumor Responses](homework/innate-immunity-covid19-antitumor.md) — assignment requirements and Bohan's answers.
+- [Immune Tolerance Mechanisms](homework/immune-tolerance-mechanisms.md) — four questions and submission requirements; [Chinese HTML summary](homework/immune-tolerance-mechanisms.zh.html).
+
+Homework update conventions are recorded in [the project log](logs/2026-09-17.md).
 
 ## Topic index
 
